@@ -3,6 +3,7 @@
 ## Due 12-17-2015
 
 ## Author
+Yihan Wang
 
 ## Description
 
